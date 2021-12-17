@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  background-color: #fff;
+  font-family:  'Roboto', sans-serif;
+}
+
+main p{
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 2em;
+    font-size: 1em;
+}
+header{
+
+    background-color:#ddc1a7 ;
+  
+    text-align: center;
+}
+
+header h1{
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 40px;
+    margin-bottom: 20px;
+    font-size: 3em;
+    color: white;
+   
+}
+
+header p {
+    color: white;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 1.2em;
+    
+}
+
+nav{
+
+    background-color:#745e4d;
+    color:white;
+    padding: 10px;
+    
+    
+}
+
+av a{
+
+    text-decoration: none;
+    color: white;
+    
+}
+
+nav a:hover{
+
+    background-color:#F4F1D7  ;
+    padding: 20px;
+}
+
+ul li{
+
+    display: inline-block;
+    padding: 20px;
+    font-weight: 700;
+    color: #fff;
+    
+
+
+}
+
+section{
+  background-color:#F4F1D7 7;
+    padding: 10px;
+    
+}
+
+section h2{
+
+  font-weight: 900;
+}
+
+button{
+  background-color: #745e4d;
+  font-weight: 700;
+  font-family:  'Roboto', sans-serif;
+  color: #fff;
+  padding: 10px;
+}
+
+div{
+  margin: 30px;
+
+  
+}
+
+
+div p{
+
+ 
+text-align: center;
+}
+
+div button{
+
+margin-left: 50%;
+margin-right: 50%;
+
+}
+
+img{
+  width: 200px;
+  height: 200px ;
+  
+}
+
+.cachorro{
+  display: flex;
+  
+  
+  
+  
+}
+
+
+
+footer{
+
+    background-color: #bd9479;
+    color: white;
+    text-align: center;
+    font-size: 0.83em;
+    padding: 5px;
+}
+
+ a{
+
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover{
+    color: #3ddc84;
+}
+
